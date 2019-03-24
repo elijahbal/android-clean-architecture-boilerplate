@@ -2,6 +2,8 @@
 
 # Android Clean Architecture Boilerplate
 
+_notice: I'm keeping this fork alive by merging other's contribution faster than the original upstream maintainers but do not claim any ownership on this package. elijahbal_
+
 Welcome 👋 We hope this boilerplate is not only helpful to other developers, but also that it helps to educate in the area of architecture. We created this boilerplate for a few reasons:
 
 1. To experiment with modularisation
